@@ -23,7 +23,7 @@ It is an organizing and writing space built specifically for **character-centric
 | User | Typical use |
 |------|-------------|
 | TRPG players | Character journeys, session logs, worldbuilding notes |
-| Self-insert / OC×canon creators | Preserving interactions with AI or fictional characters, emotional continuity |
+| Yumejoshi / yumedanshi (self-insert creators) | Preserving interactions with AI or fictional characters, emotional continuity |
 | AI roleplay communities | Multi-character management, story archives, lore upkeep |
 | OC creators | Original character profiles, worldbuilding, inspiration collection |
 | Novel / game-script writers | Relationship graphs, story fragments, research material |
