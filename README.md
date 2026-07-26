@@ -1,12 +1,8 @@
-# REPLAY-Beta
-This repository contains beta releases of REPLAY.
-The software is provided for testing purposes only.
-All rights reserved.
-
-Beta testers may download and use these builds for evaluation.
-Redistribution is not permitted without permission.
-
 # REPLAY
+
+**简体中文** | [English](README_EN.md)
+
+> 本仓库为 REPLAY 的 Beta 测试分发仓库。安装包仅供受邀测试使用，未经许可请勿转发。保留所有权利。
 
 > 本地化沉浸式叙事创作与角色关系管理空间
 
@@ -40,19 +36,19 @@ REPLAY 是一个为深度沉浸式创作者设计的**本地优先桌面应用**
 
 ## 下载与安装
 
-前往 **[Releases 页面](../../releases/latest)** 下载对应平台的安装包（当前 `v1.0.0-beta.3`）：
+前往 **[Releases 页面](../../releases)** 下载最新版本对应平台的安装包：
 
 | 平台 | 文件 |
 |------|------|
-| macOS（Apple Silicon，M1 及以后） | `REPLAY-1.0.0-beta.3-mac.dmg`（或 `-mac.zip`） |
-| Windows 64 位（安装版） | `REPLAY-1.0.0-beta.3-win.exe` |
-| Windows 64 位（免安装） | `REPLAY-1.0.0-beta.3-portable.exe` |
+| macOS（Apple Silicon，M1 及以后） | `REPLAY-<版本号>-mac.dmg` |
+| Windows 64 位（安装版） | `REPLAY-<版本号>-win.exe` |
+| Windows 64 位（免安装） | `REPLAY-<版本号>-portable.exe` |
 
 > Intel Mac 暂未提供，需要请联系维护者。
 
 ### ⚠️ 升级前先备份数据
 
-用过任何早期版本的用户，**升级前请完整复制一份你的 Vault 文件夹**（你当初选择的数据存储目录）。本版本含引用系统数据结构升级，首次打开旧 Vault 会自动迁移（有自动备份，但手动多备一份永远更稳）。全新用户跳过。
+用过任何早期版本的用户，**升级前请完整复制一份你的 Vault 文件夹**（你当初选择的数据存储目录）。新版本可能包含数据结构升级，首次打开旧 Vault 会自动迁移（有自动备份，但手动多备一份永远更稳）。全新用户跳过。
 
 ### macOS
 1. 下载 `.dmg`，双击打开，把 REPLAY 拖进「应用程序」。
